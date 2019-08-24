@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+â€¦or create a new repository on the command line
 
 
 echo "# testing05032019" >> README.md
@@ -10,8 +10,11 @@ git push -u origin master
 
 
 
-…or push an existing repository from the command line
+â€¦or push an existing repository from the command line
 
 
 git remote add origin https://github.com/umerhamid1/testing05032019.git
 git push -u origin master
+
+
+here is something rubbish code
